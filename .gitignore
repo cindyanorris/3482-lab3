@@ -1,0 +1,4 @@
+*.o
+ngramslow
+ngramstl
+ngramfast
