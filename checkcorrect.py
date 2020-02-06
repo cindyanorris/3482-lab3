@@ -19,7 +19,7 @@ import re
 #                      shakespeare1000Lines, shakespeareAllLines
 #
 #location of the input files
-labdir="/u/css/classes/3482/020/lab3/"
+labdir="/u/css/classes/3482/201/lab3/"
 #location of the temp directory used by the script
 tmpdir = "/var/tmp/toollab." + getpass.getuser();
 

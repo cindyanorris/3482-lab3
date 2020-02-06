@@ -20,7 +20,7 @@ import re
 #execution time.
 #
 #location of the input file
-shakeFile = "/u/css/classes/3482/020/lab3/shakespeareAllLines"
+shakeFile = "/u/css/classes/3482/201/lab3/shakespeareAllLines"
 #location of the temp directory used by the script 
 tmpdir = "/var/tmp/toollab." + getpass.getuser();
 

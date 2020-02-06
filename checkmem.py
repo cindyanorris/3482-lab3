@@ -15,7 +15,7 @@ import re
 #output file for evidence of memory errors.
 #
 #Location of input file
-labdir="/u/css/classes/3482/020/lab3/"
+labdir="/u/css/classes/3482/201/lab3/"
 #Temp directory used to hold the executable and valgrind files
 tmpdir = "/var/tmp/toollab." + getpass.getuser();
 #name of input file
